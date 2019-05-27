@@ -1,5 +1,7 @@
 # aws-study-notes
 
+Status: Draft
+
 TOC
 * Overview
 * IAM
