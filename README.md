@@ -1,12 +1,24 @@
-# aws-study-notes
+# AWS Study Notes
 
-Status: Draft
+This repository is a set of concise notes on various AWS services. I am creating
+them while learning the services or analyzing them for work related tasks. Feel
+free to use them for your learning, review and quick information access. 
 
-TOC
+**Disclaimer:** the notes might not be complete or up to date. You should always
+verify specific information in the online AWS documentation. Especially details
+of pricing and limits might change, as well as new feature might be added. 
+Usually the FAQs are a good and quick place to start.
+
+### Completed
+*
+
+### In progress
+* [SNS](SNS.md)
+
+### Todo
 * Overview
 * IAM
 * S3, Glacier, CloudFront
-* SNS
 * SQS
 * EC2
 * VPC
