@@ -10,16 +10,15 @@ of pricing and limits might change, as well as new feature might be added.
 Usually the FAQs are a good and quick place to start.
 
 ### Completed
-*
+* [SNS](SNS.md)
 
 ### In progress
-* [SNS](SNS.md)
+* [SQS](SQS.md)
 
 ### Todo
 * Overview
 * IAM
 * S3, Glacier, CloudFront
-* SQS
 * EC2
 * VPC
 * RDS
