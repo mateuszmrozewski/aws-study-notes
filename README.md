@@ -27,3 +27,7 @@ Usually the FAQs are a good and quick place to start.
 * Other Databases
 * Other services
 * Well architected framework
+* CloudFormation
+* EBS
+* Networking
+* ElastiCache
