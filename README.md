@@ -14,12 +14,12 @@ Usually the FAQs are a good and quick place to start.
 
 ### In progress
 * [SQS](SQS.md)
+* [EC2](EC2.md)
 
 ### Todo
 * Overview
 * IAM
 * S3, Glacier, CloudFront
-* EC2
 * VPC
 * RDS
 * Route53
@@ -31,3 +31,14 @@ Usually the FAQs are a good and quick place to start.
 * EBS
 * Networking
 * ElastiCache
+* ECS
+
+### Topic to review
+* EC2 dedicates instances
+* S3 URls
+* VPC Peering
+* Storage gateways
+* S3 Multipart upload
+* WAF
+* Proactive Cycling Scaling
+* S3 API
