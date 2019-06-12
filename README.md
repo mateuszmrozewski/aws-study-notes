@@ -15,6 +15,7 @@ Usually the FAQs are a good and quick place to start.
 ### In progress
 * [SQS](SQS.md)
 * [EC2](EC2.md)
+* [S3](S3.md)
 
 ### Todo
 * Overview
@@ -32,13 +33,9 @@ Usually the FAQs are a good and quick place to start.
 * Networking
 * ElastiCache
 * ECS
+* Storage gateway
+* WAF
 
 ### Topic to review
-* EC2 dedicates instances
-* S3 URls
 * VPC Peering
-* Storage gateways
-* S3 Multipart upload
-* WAF
 * Proactive Cycling Scaling
-* S3 API
